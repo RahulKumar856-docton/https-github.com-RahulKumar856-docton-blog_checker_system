@@ -1,0 +1,10 @@
+{
+  "name": "Community Fridge Tracker",
+  "description": "A platform to manage community fridges, track food inventory, and reduce food waste.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
